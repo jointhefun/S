@@ -1,0 +1,20 @@
+@import "https://fonts.googleapis.com/css2?family=Open+Sans&display=swap";
+body {
+    background-image: url('https://senres.suge-pula.xyz/bostanickamorptea.png') !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: #1a1a1a;
+    color: #f0f;
+    font-family: open sans, sans-serif;
+    font-size: 23px;
+    padding-left: 20px;
+}
+
+a {
+  color: #c90076;
+}
+
+a:visited {
+  color: inherit;
+}
