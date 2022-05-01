@@ -1,12 +1,10 @@
 @import "https://fonts.googleapis.com/css2?family=Open+Sans&display=swap";
 body {
-    // O pun pe mieunica background pentru ca imi place de ea. Trist e faptul ca o pot vedea doar in poze :(
     background-image: url('https://senres.sugepula.xyz/mieunica.png') !important;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     background-color: #1a1a1a;
-    // Pun culoarea mea preferata la text pentru ca sunt o pizda masculina si imi place rozul care mi se potriveste.
     color: #f0f;
     font-family: open sans, sans-serif;
     font-size: 23px;
